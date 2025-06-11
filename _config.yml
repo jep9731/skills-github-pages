@@ -1,0 +1,9 @@
+theme: minima
+title: jep9731's personal blog
+description: This is where I share cool stuff about my life
+author: jep9731
+title: [Your Name]
+description: >-
+  Clinical Research Coordinator at Northwestern University (NU), currently pursuing my MSDS at NU School of Professional Studies.
+baseurl: "" # Leave empty if using GitHub Pages root
+url: "https://github.com/jep9731" # Replace with your GitHub Pages URL
